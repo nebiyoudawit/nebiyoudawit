@@ -1,67 +1,70 @@
-<h2 align="left">Hi 👋! My name is Nebiyou and I'm a  Full Stack Developer, from Addis Ababa, Ethiopia</h2>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nebiyou+Dawit;Full+Stack+Developer;Based+in+Addis+Ababa%2C+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9" alt="Typing SVG" />
 
-###
+<p>
+  <a href="https://www.linkedin.com/in/nebiyou-dawit-900347327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nebiyoudawit21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/neba_daw21"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discordapp.com/users/706564939472437268"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://komarev.com/ghpvc/?username=nebiyoudawit&style=flat-square&color=38BDF8&label=Profile+Views" alt="Profile views" />
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">Contact Me</h3>
+### 👨‍💻 About Me
 
-###
+- 🌍 Full Stack Developer based in **Addis Ababa, Ethiopia**
+- 🚀 I build fast, responsive web apps from the database to the UI
+- 🌱 Currently learning more about **system design** and **cloud deployment**
+- 🤝 Open to **collaborations**, **freelance work**, and **full-time roles**
+- 💬 Ask me about **JavaScript, React, Node.js, PHP, and SQL**
+- ⚡ Fun fact: I also design my own UIs in Figma
 
-<p align="left">Phone: 0979968808</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<div align="left">
-  <a href="https://discordapp.com/users/706564939472437268" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:nebiyoudawit21@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/nebiyou-dawit-900347327" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/neba_daw21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,dart,html,css,php,java,cpp,cs&theme=dark" alt="Languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,tailwind&theme=dark" alt="Frameworks" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis,git,github,npm,figma,vscode&theme=dark" alt="Tools" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nebiyoudawit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebiyoudawit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=nebiyoudawit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [HiLCoE Go](https://github.com/nebiyoudawit/HiLCoE-Go) | Student app for HiLCoE: courses, grades, attendance, exams and class schedule in one place (Android, iOS, Web) | Flutter, Dart, Firebase |
+| [Knotts Jewelry](https://github.com/nebiyoudawit/Knotts-Jewlery) | Full-stack e-commerce store for a jewelry brand | React, Tailwind, Node.js, Express, MongoDB, Redis |
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting. Feel free to reach out!** ⭐
+
+</div>
