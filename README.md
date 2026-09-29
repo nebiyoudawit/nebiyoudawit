@@ -65,6 +65,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nebiyoudawit/nebiyoudawit/output/snake.svg" alt="Contribution snake animation" />
+
 ⭐ **Thanks for visiting. Feel free to reach out!** ⭐
 
 </div>
