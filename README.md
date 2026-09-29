@@ -18,10 +18,8 @@
 
 - 🌍 Full Stack Developer based in **Addis Ababa, Ethiopia**
 - 🚀 I build fast, responsive web apps from the database to the UI
-- 🌱 Currently learning more about **system design** and **cloud deployment**
 - 🤝 Open to **collaborations**, **freelance work**, and **full-time roles**
 - 💬 Ask me about **JavaScript, React, Node.js, PHP, and SQL**
-- ⚡ Fun fact: I also design my own UIs in Figma
 
 ---
 
